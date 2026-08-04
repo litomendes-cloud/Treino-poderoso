@@ -10,7 +10,8 @@ import { useState, useEffect } from "react";
  * Marca: Elizabete Barros
  */
 
-⁠const CHECKOUT_URL = "[https://pay.kiwify.com.br/rFbNfI3](https://pay.kiwify.com.br/rFbNfI3)";
+const CHECKOUT_URL = "https://pay.kiwify.com.br/rFbNfI3";
+
 export default function Home() {
   const [isScrolled, setIsScrolled] = useState(false);
 

@@ -112,7 +112,7 @@ export default function Home() {
           {/* Hero Image - Elizabete */}
           <div className="relative h-96 md:h-full min-h-96 rounded-2xl overflow-hidden animate-fade-in-up" style={{animationDelay: '0.2s'}}>
             <img
-              src="/manus-storage/elisabete-hero_f431dc82.jpg"
+              src="/hero.jpg"
               alt="Elizabete Barros - Criadora do Treino Poderoso"
               className="w-full h-full object-cover rounded-2xl"
             />
@@ -180,7 +180,7 @@ export default function Home() {
           {/* Image */}
           <div className="relative h-96 md:h-full min-h-96 rounded-2xl overflow-hidden order-2 md:order-1">
             <img
-              src="/manus-storage/benefits-section-image_7276516a.png"
+              src="/programa.jpg"
               alt="Treino em casa"
               className="w-full h-full object-cover rounded-2xl"
             />
@@ -296,7 +296,7 @@ export default function Home() {
               </div>
               
               <img
-                src="/manus-storage/transformacao-grande-destaque_c3c6bb61.jpg"
+                src="/transformacao.jpg"
                 alt="Transformação Pós-Parto - Antes e Depois"
                 className="w-full rounded-lg mb-6"
               />
@@ -326,7 +326,7 @@ export default function Home() {
                   ))}
                 </div>
                 <img
-                  src="/manus-storage/social-proof-1_86e36cce.jpg"
+                  src="/cliente1.jpg"
                   alt="Cliente - Resultado 1"
                   className="w-full rounded-lg mb-4"
                 />
@@ -343,7 +343,7 @@ export default function Home() {
                   ))}
                 </div>
                 <img
-                  src="/manus-storage/social-proof-2_2d3ea70b.jpg"
+                  src="/cliente2.jpg"
                   alt="Cliente - Resultado 2"
                   className="w-full rounded-lg mb-4"
                 />
@@ -360,7 +360,7 @@ export default function Home() {
                   ))}
                 </div>
                 <img
-                  src="/manus-storage/transformacao-pequeno-destaque_54ff8cae.jpg"
+                  src="/cliente3.jpg"
                   alt="5 Meses de Treino - Antes e Depois"
                   className="w-full rounded-lg mb-4"
                 />
@@ -377,7 +377,7 @@ export default function Home() {
           {/* Testimonial Text */}
           <div className="mt-16 max-w-2xl mx-auto bg-card rounded-2xl p-8 border border-border">
             <img
-              src="/manus-storage/testimonial-text_59b4efea.jpg"
+              src="/depoimento.jpg"
               alt="Depoimento de cliente"
               className="w-full rounded-lg"
             />
@@ -393,7 +393,7 @@ export default function Home() {
         <div
           className="absolute inset-0 opacity-30"
           style={{
-            backgroundImage: "url('/manus-storage/cta-section-background_3fc0b147.png')",
+            backgroundImage: "url('/hero.jpg')",
             backgroundSize: "cover",
             backgroundPosition: "center",
           }}
